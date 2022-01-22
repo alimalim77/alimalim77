@@ -24,6 +24,5 @@
  <div>
 
    [![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimalim77)](https://github.com/anuraghazra/github-readme-stats)
-   
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimalim77)](https://github.com/anuraghazra/github-readme-stats)     
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimalim77)](https://github.com/anuraghazra/github-readme-stats)     
   
