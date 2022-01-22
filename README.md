@@ -23,6 +23,6 @@
  </ol>
  <div>
 
-   [![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimalim77&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimalim77&theme=dark)](https://github.com/anuraghazra/github-readme-stats)     
+   [![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimalim77&theme=dark&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimalim77&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)     
   
