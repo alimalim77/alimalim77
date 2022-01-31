@@ -9,6 +9,8 @@
   </a>
 </h1>
 <div style="font-family: calibri; font-size: 18px; font-weight: bold;">
+  <a href='www.leetoce.com/alimalim77'><img src="![LeetCode_logo_black](https://user-images.githubusercontent.com/52186295/151781608-8ec45a0a-8a6b-4561-bb9c-4519bfb50b06.png)
+    " alt="Leetcode"></a>
 <ol>
   <strong>
 <li> 🔭𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</li>
