@@ -53,6 +53,7 @@
   [![Alim's GitHub stats](https://github-readme-stats.vercel.app/api?username=alimalim77&theme=synthwave&hide=stars,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   <br>
+  ## Streak and Competetive Record
   ![Leetcode Stats](https://leetcode.card.workers.dev/?username=alimalim77&theme=dark&show_rank=False)
   <br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimalim77&" alt="alimalim77" /></p>
@@ -60,10 +61,11 @@
   
   ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Create Personalized Blockchain in 60 Minutes](https://dev.to/alimalim77/create-personalized-blockchain-in-60-minutes-2c5p------2)
-- [Pseudocode: Breaking Free of Tutorial Sites](https://kevinfeng-cs88.medium.com/pseudocode-breaking-free-of-tutorial-sites-329ecd22efc4?source=rss-952aa1b4a284------2)
-- [We Will Always Be Apes: Return to Monke](https://kevinfeng-cs88.medium.com/we-will-always-be-apes-return-to-monke-38f4848961f3?source=rss-952aa1b4a284------2)
-- [Wim Hof: The Real Life Demon Slayer](https://kevinfeng-cs88.medium.com/wim-hof-the-real-life-demon-slayer-cacecd9f769?source=rss-952aa1b4a284------2)
-- [My First Week with Apollo](https://kevinfeng-cs88.medium.com/my-first-week-with-apollo-658ad5824134?source=rss-952aa1b4a284------2)
+- [Create Personalized Blockchain in 60 Minutes](https://dev.to/alimalim77/create-personalized-blockchain-in-60-minutes-2c5p------3)
+- [Mastering Frontend Fundamentals in 100 Days](https://dev.to/alimalim77/mastering-front-end-fundamentals-in-100-days-akg------3)
+- [Setting up Multiple Screen Environment](https://dev.to/alimalim77/setting-up-multiple-screen-environment-in-3-easy-steps-49ma------3)
+- [Number Crunching Phenomena](https://medium.com/@alimalim77/computers-and-number-crunching-phenomena-356965ed9648------3)
+- [Big Oh! Noted](https://medium.com/@alimalim77/big-oh-notation-noted-65332150e094------3)
+
 <!-- BLOG-POST-LIST:END -->
    
