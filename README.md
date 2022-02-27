@@ -61,11 +61,11 @@
   
   ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Create Personalized Blockchain in 60 Minutes](https://dev.to/alimalim77/create-personalized-blockchain-in-60-minutes-2c5p------3)
-- [Mastering Frontend Fundamentals in 100 Days](https://dev.to/alimalim77/mastering-front-end-fundamentals-in-100-days-akg------3)
-- [Setting up Multiple Screen Environment](https://dev.to/alimalim77/setting-up-multiple-screen-environment-in-3-easy-steps-49ma------3)
-- [Number Crunching Phenomena](https://medium.com/@alimalim77/computers-and-number-crunching-phenomena-356965ed9648------3)
-- [Big Oh! Noted](https://medium.com/@alimalim77/big-oh-notation-noted-65332150e094------3)
+- [Create Personalized Blockchain in 60 Minutes](https://dev.to/alimalim77/create-personalized-blockchain-in-60-minutes-2c5p)
+- [Mastering Frontend Fundamentals in 100 Days](https://dev.to/alimalim77/mastering-front-end-fundamentals-in-100-days-akg)
+- [Setting up Multiple Screen Environment](https://dev.to/alimalim77/setting-up-multiple-screen-environment-in-3-easy-steps-49ma)
+- [Number Crunching Phenomena](https://medium.com/@alimalim77/computers-and-number-crunching-phenomena-356965ed9648)
+- [Big Oh! Noted](https://medium.com/@alimalim77/big-oh-notation-noted-65332150e094)
 
 <!-- BLOG-POST-LIST:END -->
    
