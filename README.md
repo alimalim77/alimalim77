@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.datacamp.com/profile/alimalim77" target="blank"><img align="center" src="https://cdn.lovesavingsgroup.com/logos/datacamp.png" alt="https://dev.to/alimalim77" height="30" width="40" /></a>
+<a href="https://www.datacamp.com/profile/alimalim77" target="blank"><img align="center" src="https://dataresident.com/wp-content/uploads/2021/12/is-datacamp-worth-it.png" alt="https://dev.to/alimalim77" height="30" width="40" /></a>
 <a href="https://codepen.io/alimalim77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/alimalim77/" height="30" width="40" /></a>
 <a href="https://dev.to/alimalim77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/alimalim77" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-alim-90a91835/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-alim-90a91835/" height="30" width="40" /></a>
