@@ -28,6 +28,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.datacamp.com/profile/alimalim77" target="blank"><img align="center" src="https://livecodestream.dev/review/platform/data-camp/featured_hu4319d5ff4a4e9c05cba253c9f6e69f4d_65450_680x0_resize_q90_h2_lanczos.webp" alt="https://dev.to/alimalim77" height="30" width="40" /></a>
 <a href="https://codepen.io/alimalim77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/alimalim77/" height="30" width="40" /></a>
 <a href="https://dev.to/alimalim77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/alimalim77" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-alim-90a91835/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-alim-90a91835/" height="30" width="40" /></a>
