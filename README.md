@@ -55,8 +55,7 @@
   <br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimalim77&" alt="alimalim77" /></p>
   <br>
-  [![alimalim77's GitHub | Stats](https://stats.quine.sh/alimalim77/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alimalim77) 
-  <br>
+
   ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Create Personalized Blockchain in 60 Minutes](https://dev.to/alimalim77/create-personalized-blockchain-in-60-minutes-2c5p)
@@ -64,6 +63,7 @@
 - [Setting up Multiple Screen Environment](https://dev.to/alimalim77/setting-up-multiple-screen-environment-in-3-easy-steps-49ma)
 - [Number Crunching Phenomena](https://medium.com/@alimalim77/computers-and-number-crunching-phenomena-356965ed9648)
 - [Big Oh! Noted](https://medium.com/@alimalim77/big-oh-notation-noted-65332150e094)
-
 <!-- BLOG-POST-LIST:END -->
+## Some More Stats
+  [![alimalim77's GitHub | Stats](https://stats.quine.sh/alimalim77/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=alimalim77) 
    
