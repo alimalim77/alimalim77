@@ -24,6 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://peerlist.io/moalim" target="blank" >
+  <img align="center" src="https://dqy38fnwh4fqs.cloudfront.net/website/peerlist-logo-full.svg" alt="https://dev.to/alimalim77" height="30" width="40" />
+</a>
 <a href="https://www.datacamp.com/profile/alimalim77" target="blank"><img align="center" src="https://dataresident.com/wp-content/uploads/2021/12/is-datacamp-worth-it.png" alt="https://dev.to/alimalim77" height="30" width="40" /></a>
 <a href="https://codepen.io/alimalim77/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/alimalim77/" height="30" width="40" /></a>
 <a href="https://dev.to/alimalim77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/alimalim77" height="30" width="40" /></a>
